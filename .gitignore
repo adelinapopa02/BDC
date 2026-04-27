@@ -1,0 +1,9 @@
+*.class
+out/
+target/
+.idea/
+*.iml
+*.log
+# Don't upload your data files if they are huge!
+input/
+output/
