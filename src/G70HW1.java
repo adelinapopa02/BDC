@@ -23,34 +23,35 @@ public class G70HW1 {
         int L = Integer.parseInt(args[3]);
 
         SparkConf conf = new SparkConf(true).setAppName("G70HW1");
-        JavaSparkContext sc = new JavaSparkContext(conf);
-        sc.setLogLevel("ERROR");
+        try (JavaSparkContext sc = new JavaSparkContext(conf)) {
+            sc.setLogLevel("ERROR");
 
-        System.out.println("File path = " + filePath + ", KA = " + kA + ", KB = " + kB + ", L = " + L);
+            System.out.println("File path = " + filePath + ", KA = " + kA + ", KB = " + kB + ", L = " + L);
 
-        JavaPairRDD<Vector, String> inputPoints = sc.textFile(filePath).repartition(L).mapToPair(G70HW1::parseLine).cache();
+            JavaPairRDD<Vector, String> inputPoints = sc.textFile(filePath).repartition(L).mapToPair(G70HW1::parseLine).cache();
 
-        long N = inputPoints.count();
-        long NA = inputPoints.filter(p->p._2().equals("A")).count();
-        long NB = inputPoints.filter(p->p._2().equals("B")).count();
-        System.out.println("N = " + N + ", NA = " + NA + ", NB = " + NB);
+            long N = inputPoints.count();
+            long NA = inputPoints.filter(p -> p._2().equals("A")).count();
+            long NB = inputPoints.filter(p -> p._2().equals("B")).count();
+            System.out.println("N = " + N + ", NA = " + NA + ", NB = " + NB);
 
-        long start = System.currentTimeMillis();
-        ArrayList<Tuple2<Vector, String>> solution = MRFairFFT(inputPoints, kA, kB);
-        long end = System.currentTimeMillis();
+            long start = System.currentTimeMillis();
+            ArrayList<Tuple2<Vector, String>> solution = MRFairFFT(inputPoints, kA, kB);
+            long end = System.currentTimeMillis();
 
-        for (Tuple2<Vector, String> center : solution) {
-            double[] coords = center._1().toArray();
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < coords.length; i++) {
-                sb.append(coords[i]).append(i == coords.length - 1 ? "" : ",");
+            for (Tuple2<Vector, String> center : solution) {
+                double[] coords = center._1().toArray();
+                StringBuilder sb = new StringBuilder();
+                for (int i = 0; i < coords.length; i++) {
+                    sb.append(coords[i]).append(i == coords.length - 1 ? "" : ",");
+                }
+                System.out.println("Center = [" + sb + "] Label = " + center._2());
             }
-            System.out.println("Center = [" + sb + "] Label = " + center._2());
-        }
 
-        double objective = computeObjective(inputPoints, solution);
-        System.out.println("Objective function = " + objective);
-        System.out.println("Running time of MRFairFFT = " + (end - start) + " ms");
+            double objective = computeObjective(inputPoints, solution);
+            System.out.println("Objective function = " + objective);
+            System.out.println("Running time of MRFairFFT = " + (end - start) + " ms");
+        }
     }
 
     /**
