@@ -36,7 +36,7 @@ public class G70HW1 {
         System.out.println("N = " + N + ", NA = " + NA + ", NB = " + NB);
 
         long start = System.currentTimeMillis();
-        ArrayList<Tuple2<Vector, String>> solution = MRFairFFT(inputPoints, kA, kB, L);
+        ArrayList<Tuple2<Vector, String>> solution = MRFairFFT(inputPoints, kA, kB);
         long end = System.currentTimeMillis();
 
         for (Tuple2<Vector, String> center : solution) {
@@ -97,10 +97,9 @@ public class G70HW1 {
      * @param P Distributed RDD of points and labels
      * @param kA Total budget for group A centers
      * @param kB Total budget for group B centers
-     * @param L Number of partitions
      * @return Final set of kA + kB centers
      */
-    public static ArrayList<Tuple2<Vector, String>> MRFairFFT(JavaPairRDD<Vector, String> P, int kA, int kB, int L) {
+    public static ArrayList<Tuple2<Vector, String>> MRFairFFT(JavaPairRDD<Vector, String> P, int kA, int kB) {
         List<Tuple2<Vector, String>> coreset = P.mapPartitionsToPair(partition -> {
             List<Tuple2<Vector, String>> points = new ArrayList<>();
             while (partition.hasNext()) points.add(partition.next());
