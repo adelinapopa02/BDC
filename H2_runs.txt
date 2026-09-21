@@ -1,0 +1,2181 @@
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.01
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:15:30 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 46
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 63
+Item = 12396914 True Freq = 1
+Item = 13869202 True Freq = 1
+Item = 151981094 True Freq = 1
+Item = 192727567 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 201367937 True Freq = 1
+Item = 302186017 True Freq = 1
+Item = 323088848 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 370982512 True Freq = 1
+Item = 415304513 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 446126504 True Freq = 1
+Item = 449303585 True Freq = 1
+Item = 488208942 True Freq = 1
+Item = 489232964 True Freq = 1
+Item = 533046623 True Freq = 1
+Item = 559871625 True Freq = 1
+Item = 563140799 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 728590759 True Freq = 1
+Item = 810991677 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 831561555 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 939980669 True Freq = 1
+Item = 940821146 True Freq = 1
+Item = 976845823 True Freq = 1
+Item = 997881142 True Freq = 1
+Item = 1036458626 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1078510095 True Freq = 1
+Item = 1150900019 True Freq = 1
+Item = 1170267214 True Freq = 1
+Item = 1194456899 True Freq = 1
+Item = 1268418528 True Freq = 1
+Item = 1278846771 True Freq = 1
+Item = 1334691687 True Freq = 1
+Item = 1410308951 True Freq = 1
+Item = 1423870604 True Freq = 1
+Item = 1429115916 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1478648512 True Freq = 1
+Item = 1483911535 True Freq = 1
+Item = 1488218144 True Freq = 1
+Item = 1578920134 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1602945517 True Freq = 1
+Item = 1611717827 True Freq = 1
+Item = 1630566904 True Freq = 1
+Item = 1686865054 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1710833964 True Freq = 1
+Item = 1720044865 True Freq = 1
+Item = 1770873558 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1835203465 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1980437720 True Freq = 1
+Item = 2057523221 True Freq = 1
+Item = 2073687186 True Freq = 1
+Item = 2098047171 True Freq = 1
+Item = 2134211407 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.01
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:17:52 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 37
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 72
+Item = 2624018 True Freq = 1
+Item = 30207256 True Freq = 1
+Item = 126085616 True Freq = 1
+Item = 143827699 True Freq = 1
+Item = 172742390 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 201367937 True Freq = 1
+Item = 239209560 True Freq = 1
+Item = 298917061 True Freq = 1
+Item = 309409217 True Freq = 1
+Item = 336132065 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 416484965 True Freq = 1
+Item = 433452187 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 455738640 True Freq = 1
+Item = 520619892 True Freq = 1
+Item = 556999519 True Freq = 1
+Item = 559871625 True Freq = 1
+Item = 615775949 True Freq = 1
+Item = 639107057 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 738230884 True Freq = 1
+Item = 754219329 True Freq = 1
+Item = 779834410 True Freq = 1
+Item = 786501091 True Freq = 1
+Item = 790253334 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 916012456 True Freq = 1
+Item = 987000389 True Freq = 1
+Item = 1022057915 True Freq = 1
+Item = 1027775575 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1042351084 True Freq = 1
+Item = 1077543451 True Freq = 1
+Item = 1086641247 True Freq = 1
+Item = 1106894217 True Freq = 1
+Item = 1149290678 True Freq = 1
+Item = 1183415445 True Freq = 1
+Item = 1212790004 True Freq = 1
+Item = 1271734751 True Freq = 1
+Item = 1282975095 True Freq = 1
+Item = 1307564158 True Freq = 1
+Item = 1321021723 True Freq = 1
+Item = 1353803187 True Freq = 1
+Item = 1366674321 True Freq = 1
+Item = 1376958176 True Freq = 1
+Item = 1399253419 True Freq = 1
+Item = 1424432131 True Freq = 1
+Item = 1429241250 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1487132309 True Freq = 1
+Item = 1503599361 True Freq = 1
+Item = 1513443059 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1689766879 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1713594302 True Freq = 1
+Item = 1720044865 True Freq = 1
+Item = 1724365689 True Freq = 1
+Item = 1740582586 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1806510302 True Freq = 1
+Item = 1866388738 True Freq = 1
+Item = 1931638770 True Freq = 1
+Item = 1933287125 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1941019800 True Freq = 1
+Item = 1980274434 True Freq = 1
+Item = 1980952198 True Freq = 1
+Item = 2060965360 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.01
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:20:15 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 41
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 52
+Item = 41330391 True Freq = 1
+Item = 52685191 True Freq = 1
+Item = 66240538 True Freq = 1
+Item = 155838417 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 237353086 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 363786713 True Freq = 1
+Item = 379112127 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 516454230 True Freq = 1
+Item = 571457948 True Freq = 1
+Item = 610347222 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 651824282 True Freq = 1
+Item = 662820695 True Freq = 1
+Item = 695691452 True Freq = 1
+Item = 718992429 True Freq = 1
+Item = 809593073 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 894519786 True Freq = 1
+Item = 933141932 True Freq = 1
+Item = 944452037 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1059901271 True Freq = 1
+Item = 1129337268 True Freq = 1
+Item = 1160070246 True Freq = 1
+Item = 1271734751 True Freq = 1
+Item = 1319094852 True Freq = 1
+Item = 1325468335 True Freq = 1
+Item = 1360348918 True Freq = 1
+Item = 1454043691 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1530660143 True Freq = 1
+Item = 1558107576 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1635602717 True Freq = 1
+Item = 1640563807 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1710960483 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1809869423 True Freq = 1
+Item = 1833296616 True Freq = 1
+Item = 1850404158 True Freq = 1
+Item = 1884001528 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1996918598 True Freq = 1
+Item = 2028967872 True Freq = 1
+Item = 2035679290 True Freq = 1
+Item = 2119541173 True Freq = 1
+Item = 2123601277 True Freq = 1
+_______________________________________________________________________________________
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.02
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:22:26 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 28
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 88
+Item = 31388722 True Freq = 1
+Item = 60429161 True Freq = 1
+Item = 101672384 True Freq = 1
+Item = 150471132 True Freq = 1
+Item = 159877630 True Freq = 1
+Item = 172084770 True Freq = 1
+Item = 178156414 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 198009114 True Freq = 1
+Item = 300256062 True Freq = 1
+Item = 315768742 True Freq = 1
+Item = 336141418 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 342291669 True Freq = 1
+Item = 394825044 True Freq = 1
+Item = 426528955 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 493748937 True Freq = 1
+Item = 510705087 True Freq = 1
+Item = 514318121 True Freq = 1
+Item = 536634565 True Freq = 1
+Item = 547702094 True Freq = 1
+Item = 580400461 True Freq = 1
+Item = 581236300 True Freq = 1
+Item = 601352111 True Freq = 1
+Item = 604117522 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 660919562 True Freq = 1
+Item = 706334636 True Freq = 1
+Item = 708243447 True Freq = 1
+Item = 714392728 True Freq = 1
+Item = 744104404 True Freq = 1
+Item = 775556346 True Freq = 1
+Item = 796410687 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 839704325 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 874018300 True Freq = 1
+Item = 963128395 True Freq = 1
+Item = 964995566 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1057124957 True Freq = 1
+Item = 1081277579 True Freq = 1
+Item = 1099438395 True Freq = 1
+Item = 1106097665 True Freq = 1
+Item = 1111457124 True Freq = 1
+Item = 1136591792 True Freq = 1
+Item = 1168983164 True Freq = 1
+Item = 1197411447 True Freq = 1
+Item = 1199751827 True Freq = 1
+Item = 1219997949 True Freq = 1
+Item = 1298380034 True Freq = 1
+Item = 1313307945 True Freq = 1
+Item = 1351353905 True Freq = 1
+Item = 1354409618 True Freq = 1
+Item = 1355438191 True Freq = 1
+Item = 1355830243 True Freq = 1
+Item = 1372436022 True Freq = 1
+Item = 1374244875 True Freq = 1
+Item = 1396017881 True Freq = 1
+Item = 1433351566 True Freq = 1
+Item = 1465730646 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1486495299 True Freq = 1
+Item = 1506990026 True Freq = 1
+Item = 1529984569 True Freq = 1
+Item = 1532826846 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1595111577 True Freq = 1
+Item = 1660752443 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1775828418 True Freq = 1
+Item = 1776617210 True Freq = 1
+Item = 1838855269 True Freq = 1
+Item = 1844432387 True Freq = 1
+Item = 1856371245 True Freq = 1
+Item = 1864704125 True Freq = 1
+Item = 1871857276 True Freq = 1
+Item = 1873708073 True Freq = 1
+Item = 1893116071 True Freq = 1
+Item = 1930746843 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1997222674 True Freq = 1
+Item = 2006393292 True Freq = 1
+Item = 2029970363 True Freq = 1
+Item = 2061931857 True Freq = 1
+Item = 2076106403 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.02
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:22:57 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 27
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 60
+Item = 12931182 True Freq = 1
+Item = 93331110 True Freq = 1
+Item = 127631638 True Freq = 1
+Item = 193282097 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 377498584 True Freq = 1
+Item = 423758183 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 497332404 True Freq = 1
+Item = 505421537 True Freq = 1
+Item = 548034476 True Freq = 1
+Item = 608965679 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 694154497 True Freq = 1
+Item = 730842427 True Freq = 1
+Item = 815681254 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 831592026 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 937914881 True Freq = 1
+Item = 953459711 True Freq = 1
+Item = 993111409 True Freq = 1
+Item = 1015529253 True Freq = 1
+Item = 1016318780 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1062047656 True Freq = 1
+Item = 1071066207 True Freq = 1
+Item = 1095114995 True Freq = 1
+Item = 1116003124 True Freq = 1
+Item = 1194255958 True Freq = 1
+Item = 1217694515 True Freq = 1
+Item = 1302055734 True Freq = 1
+Item = 1302870456 True Freq = 1
+Item = 1313737946 True Freq = 1
+Item = 1316676669 True Freq = 1
+Item = 1351551837 True Freq = 1
+Item = 1360079021 True Freq = 1
+Item = 1374417047 True Freq = 1
+Item = 1420906392 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1543668292 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1658387013 True Freq = 1
+Item = 1665628560 True Freq = 1
+Item = 1672131625 True Freq = 1
+Item = 1673425803 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1710110533 True Freq = 1
+Item = 1744393555 True Freq = 1
+Item = 1744688947 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1941823071 True Freq = 1
+Item = 1989027143 True Freq = 1
+Item = 1996740108 True Freq = 1
+Item = 2043986566 True Freq = 1
+Item = 2049031869 True Freq = 1
+Item = 2062054082 True Freq = 1
+Item = 2098278621 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.02
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:23:16 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 24
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 71
+Item = 37850184 True Freq = 1
+Item = 67875468 True Freq = 1
+Item = 157367749 True Freq = 1
+Item = 175938404 True Freq = 1
+Item = 180224514 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 207705351 True Freq = 1
+Item = 218587595 True Freq = 1
+Item = 221506824 True Freq = 1
+Item = 224687737 True Freq = 1
+Item = 262019859 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 430076561 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 436371921 True Freq = 1
+Item = 468549671 True Freq = 1
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 705196370 True Freq = 1
+Item = 725060453 True Freq = 1
+Item = 744087741 True Freq = 1
+Item = 779349728 True Freq = 1
+Item = 809947206 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 865912216 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 870781630 True Freq = 1
+Item = 874103777 True Freq = 1
+Item = 894609218 True Freq = 1
+Item = 895194953 True Freq = 1
+Item = 922022484 True Freq = 1
+Item = 966788474 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1096073005 True Freq = 1
+Item = 1121884654 True Freq = 1
+Item = 1192793954 True Freq = 1
+Item = 1282138418 True Freq = 1
+Item = 1338946657 True Freq = 1
+Item = 1397610368 True Freq = 1
+Item = 1418395839 True Freq = 1
+Item = 1423870604 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1482414834 True Freq = 1
+Item = 1503522161 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1645045133 True Freq = 1
+Item = 1652309513 True Freq = 1
+Item = 1672262517 True Freq = 1
+Item = 1679062005 True Freq = 1
+Item = 1684525753 True Freq = 1
+Item = 1688110997 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1697593592 True Freq = 1
+Item = 1698781162 True Freq = 1
+Item = 1708838270 True Freq = 1
+Item = 1729710808 True Freq = 1
+Item = 1769674392 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1778501441 True Freq = 1
+Item = 1822615366 True Freq = 1
+Item = 1822781642 True Freq = 1
+Item = 1883146002 True Freq = 1
+Item = 1914025910 True Freq = 1
+Item = 1926908593 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1953859429 True Freq = 1
+Item = 2031868214 True Freq = 1
+Item = 2047159677 True Freq = 1
+Item = 2092810269 True Freq = 1
+Item = 2113782395 True Freq = 1
+Item = 2117961835 True Freq = 1
+______________________________________________________________________________________
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:24:32 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 20
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 74
+Item = 6420199 True Freq = 1
+Item = 28219320 True Freq = 1
+Item = 30188698 True Freq = 1
+Item = 31371749 True Freq = 1
+Item = 47460430 True Freq = 1
+Item = 72573434 True Freq = 1
+Item = 86234414 True Freq = 1
+Item = 88798643 True Freq = 1
+Item = 192324401 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 215360104 True Freq = 1
+Item = 234385186 True Freq = 1
+Item = 260116604 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 339672591 True Freq = 1
+Item = 354941540 True Freq = 1
+Item = 422054445 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 447960288 True Freq = 1
+Item = 452296536 True Freq = 1
+Item = 460576301 True Freq = 1
+Item = 461967741 True Freq = 1
+Item = 475487986 True Freq = 1
+Item = 521240684 True Freq = 1
+Item = 638051077 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 728470993 True Freq = 1
+Item = 734870037 True Freq = 1
+Item = 755597630 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 861228759 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 889910761 True Freq = 1
+Item = 924004826 True Freq = 1
+Item = 934600102 True Freq = 1
+Item = 947451179 True Freq = 1
+Item = 950844138 True Freq = 1
+Item = 984206081 True Freq = 1
+Item = 995606292 True Freq = 1
+Item = 1023977129 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1106097665 True Freq = 1
+Item = 1162203206 True Freq = 1
+Item = 1206969451 True Freq = 1
+Item = 1241031237 True Freq = 1
+Item = 1291692498 True Freq = 1
+Item = 1322741031 True Freq = 1
+Item = 1325093666 True Freq = 1
+Item = 1360074987 True Freq = 1
+Item = 1360348918 True Freq = 1
+Item = 1374244875 True Freq = 1
+Item = 1428634927 True Freq = 1
+Item = 1437001139 True Freq = 1
+Item = 1453508221 True Freq = 1
+Item = 1467847927 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1487952581 True Freq = 1
+Item = 1498023634 True Freq = 1
+Item = 1521996736 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1658387013 True Freq = 1
+Item = 1685935059 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1718491315 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1815661611 True Freq = 1
+Item = 1858603149 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1969505577 True Freq = 1
+Item = 1990020268 True Freq = 1
+Item = 2014765062 True Freq = 1
+Item = 2026705411 True Freq = 1
+Item = 2101164836 True Freq = 1
+Item = 2125277381 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:24:49 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 22
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 69
+Item = 2884218 True Freq = 1
+Item = 8499416 True Freq = 1
+Item = 81235555 True Freq = 1
+Item = 97096724 True Freq = 1
+Item = 145441998 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 284304295 True Freq = 1
+Item = 316033101 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 355866364 True Freq = 1
+Item = 423678507 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 459529018 True Freq = 1
+Item = 539524246 True Freq = 1
+Item = 573893682 True Freq = 1
+Item = 574097418 True Freq = 1
+Item = 591716303 True Freq = 1
+Item = 601896585 True Freq = 1
+Item = 604035273 True Freq = 1
+Item = 618011618 True Freq = 1
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 706895391 True Freq = 1
+Item = 740405301 True Freq = 1
+Item = 748410183 True Freq = 1
+Item = 757209517 True Freq = 1
+Item = 779349728 True Freq = 1
+Item = 799327450 True Freq = 1
+Item = 810815137 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 865912216 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 881928870 True Freq = 1
+Item = 881966911 True Freq = 1
+Item = 884625158 True Freq = 1
+Item = 904437045 True Freq = 1
+Item = 920717294 True Freq = 1
+Item = 940821146 True Freq = 1
+Item = 1011466681 True Freq = 1
+Item = 1013938398 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1064717676 True Freq = 1
+Item = 1098214685 True Freq = 1
+Item = 1121320261 True Freq = 1
+Item = 1293607837 True Freq = 1
+Item = 1333707116 True Freq = 1
+Item = 1387087971 True Freq = 1
+Item = 1436926986 True Freq = 1
+Item = 1446259466 True Freq = 1
+Item = 1457793126 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1493572068 True Freq = 1
+Item = 1566707415 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1609352033 True Freq = 1
+Item = 1618761926 True Freq = 1
+Item = 1620455511 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1697593592 True Freq = 1
+Item = 1726466826 True Freq = 1
+Item = 1734427673 True Freq = 1
+Item = 1769674392 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1845370933 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1947181426 True Freq = 1
+Item = 1957024653 True Freq = 1
+Item = 1961719095 True Freq = 1
+Item = 2067674407 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 20
+port = 8888
+26/06/19 10:25:06 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 17
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 632507218 True Freq = 39947
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 70
+Item = 95622726 True Freq = 1
+Item = 98331575 True Freq = 1
+Item = 161101095 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 212051458 True Freq = 1
+Item = 240537246 True Freq = 1
+Item = 271436237 True Freq = 1
+Item = 286982194 True Freq = 1
+Item = 324649036 True Freq = 1
+Item = 332558060 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 374090565 True Freq = 1
+Item = 385071922 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 492979742 True Freq = 1
+Item = 495614207 True Freq = 1
+Item = 570585400 True Freq = 1
+Item = 608388591 True Freq = 1
+Item = 625944528 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 669708507 True Freq = 1
+Item = 684986049 True Freq = 1
+Item = 706169419 True Freq = 1
+Item = 731541060 True Freq = 1
+Item = 736587618 True Freq = 1
+Item = 767501282 True Freq = 1
+Item = 772274932 True Freq = 1
+Item = 773079592 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 907232244 True Freq = 1
+Item = 909379480 True Freq = 1
+Item = 934231113 True Freq = 1
+Item = 982222182 True Freq = 1
+Item = 1014344701 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1054448140 True Freq = 1
+Item = 1055961672 True Freq = 1
+Item = 1123278004 True Freq = 1
+Item = 1170190313 True Freq = 1
+Item = 1212278927 True Freq = 1
+Item = 1229873802 True Freq = 1
+Item = 1245185350 True Freq = 1
+Item = 1273189789 True Freq = 1
+Item = 1334206947 True Freq = 1
+Item = 1367929164 True Freq = 1
+Item = 1408706628 True Freq = 1
+Item = 1412883426 True Freq = 1
+Item = 1451035180 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1485846136 True Freq = 1
+Item = 1560540533 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1599613844 True Freq = 1
+Item = 1606544263 True Freq = 1
+Item = 1630192987 True Freq = 1
+Item = 1668972259 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1803719442 True Freq = 1
+Item = 1815964867 True Freq = 1
+Item = 1819911994 True Freq = 1
+Item = 1860492048 True Freq = 1
+Item = 1910578173 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1960502872 True Freq = 1
+Item = 2038488384 True Freq = 1
+Item = 2065359206 True Freq = 1
+Item = 2088670653 True Freq = 1
+Item = 2142776641 True Freq = 1
+______________________________________________________________________________________
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 15
+port = 8888
+26/06/19 10:27:26 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 20
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 220
+Item = 2265910 True Freq = 1
+Item = 30698871 True Freq = 1
+Item = 34002711 True Freq = 1
+Item = 37850184 True Freq = 1
+Item = 98226027 True Freq = 1
+Item = 104300125 True Freq = 1
+Item = 113321898 True Freq = 1
+Item = 115673886 True Freq = 1
+Item = 153647307 True Freq = 1
+Item = 159523964 True Freq = 1
+Item = 178162180 True Freq = 1
+Item = 183822161 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 196564534 True Freq = 1
+Item = 205338572 True Freq = 1
+Item = 215360104 True Freq = 1
+Item = 216008388 True Freq = 1
+Item = 219853126 True Freq = 1
+Item = 219970481 True Freq = 1
+Item = 221355355 True Freq = 1
+Item = 239281268 True Freq = 1
+Item = 241961772 True Freq = 1
+Item = 261279720 True Freq = 1
+Item = 271436237 True Freq = 1
+Item = 280666305 True Freq = 1
+Item = 293719887 True Freq = 1
+Item = 294135225 True Freq = 1
+Item = 296689899 True Freq = 1
+Item = 300256062 True Freq = 1
+Item = 308812638 True Freq = 1
+Item = 309409217 True Freq = 1
+Item = 314743959 True Freq = 1
+Item = 319816749 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 355866364 True Freq = 1
+Item = 358101567 True Freq = 1
+Item = 362776482 True Freq = 1
+Item = 408218722 True Freq = 1
+Item = 431232161 True Freq = 1
+Item = 432167290 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 435219831 True Freq = 1
+Item = 446704929 True Freq = 1
+Item = 447594949 True Freq = 1
+Item = 456567809 True Freq = 1
+Item = 464542135 True Freq = 1
+Item = 472722266 True Freq = 1
+Item = 498351130 True Freq = 1
+Item = 509029327 True Freq = 1
+Item = 511111385 True Freq = 1
+Item = 514770404 True Freq = 1
+Item = 516454230 True Freq = 1
+Item = 517243763 True Freq = 1
+Item = 521081734 True Freq = 1
+Item = 523000205 True Freq = 1
+Item = 535329834 True Freq = 1
+Item = 538175298 True Freq = 1
+Item = 538986578 True Freq = 1
+Item = 539799997 True Freq = 1
+Item = 540464814 True Freq = 1
+Item = 555805908 True Freq = 1
+Item = 591716303 True Freq = 1
+Item = 614395465 True Freq = 1
+Item = 617172214 True Freq = 1
+Item = 631833656 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 641510518 True Freq = 1
+Item = 642972080 True Freq = 1
+Item = 660861672 True Freq = 1
+Item = 662820695 True Freq = 1
+Item = 686617769 True Freq = 1
+Item = 689993377 True Freq = 1
+Item = 692300357 True Freq = 1
+Item = 697135565 True Freq = 1
+Item = 706169419 True Freq = 1
+Item = 713559518 True Freq = 1
+Item = 724017407 True Freq = 1
+Item = 734870037 True Freq = 1
+Item = 744087741 True Freq = 1
+Item = 748611001 True Freq = 1
+Item = 772274932 True Freq = 1
+Item = 779834410 True Freq = 1
+Item = 781022788 True Freq = 1
+Item = 792094261 True Freq = 1
+Item = 819374533 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 820128407 True Freq = 1
+Item = 827441297 True Freq = 1
+Item = 834235265 True Freq = 1
+Item = 837808729 True Freq = 1
+Item = 853345234 True Freq = 1
+Item = 857684780 True Freq = 1
+Item = 859182685 True Freq = 1
+Item = 859217775 True Freq = 1
+Item = 860529885 True Freq = 1
+Item = 869182759 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 876041782 True Freq = 1
+Item = 876777835 True Freq = 1
+Item = 893133528 True Freq = 1
+Item = 893622331 True Freq = 1
+Item = 898385773 True Freq = 1
+Item = 904899553 True Freq = 1
+Item = 909993405 True Freq = 1
+Item = 910607178 True Freq = 1
+Item = 924004826 True Freq = 1
+Item = 954333924 True Freq = 1
+Item = 960152767 True Freq = 1
+Item = 965716661 True Freq = 1
+Item = 985045259 True Freq = 1
+Item = 1013258877 True Freq = 1
+Item = 1032339113 True Freq = 1
+Item = 1034526422 True Freq = 1
+Item = 1035467189 True Freq = 1
+Item = 1036586095 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1040945558 True Freq = 1
+Item = 1045049527 True Freq = 1
+Item = 1078328879 True Freq = 1
+Item = 1087752213 True Freq = 1
+Item = 1088819057 True Freq = 1
+Item = 1090664333 True Freq = 1
+Item = 1093622186 True Freq = 1
+Item = 1122589318 True Freq = 1
+Item = 1130367684 True Freq = 1
+Item = 1140000832 True Freq = 1
+Item = 1160070246 True Freq = 1
+Item = 1162203206 True Freq = 1
+Item = 1191878112 True Freq = 1
+Item = 1195045641 True Freq = 1
+Item = 1195891603 True Freq = 1
+Item = 1215549308 True Freq = 1
+Item = 1247721180 True Freq = 1
+Item = 1255085781 True Freq = 1
+Item = 1261480042 True Freq = 1
+Item = 1262629542 True Freq = 1
+Item = 1278846771 True Freq = 1
+Item = 1282975095 True Freq = 1
+Item = 1290897204 True Freq = 1
+Item = 1306399525 True Freq = 1
+Item = 1307013811 True Freq = 1
+Item = 1307564158 True Freq = 1
+Item = 1315655463 True Freq = 1
+Item = 1328222998 True Freq = 1
+Item = 1331755634 True Freq = 1
+Item = 1346051591 True Freq = 1
+Item = 1371708893 True Freq = 1
+Item = 1382694552 True Freq = 1
+Item = 1382853095 True Freq = 1
+Item = 1392564096 True Freq = 1
+Item = 1412412205 True Freq = 1
+Item = 1412883426 True Freq = 1
+Item = 1445840434 True Freq = 1
+Item = 1449564129 True Freq = 1
+Item = 1459866676 True Freq = 1
+Item = 1467635142 True Freq = 1
+Item = 1468102298 True Freq = 1
+Item = 1469505807 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1485846136 True Freq = 1
+Item = 1503522161 True Freq = 1
+Item = 1503599361 True Freq = 1
+Item = 1509335646 True Freq = 1
+Item = 1513190134 True Freq = 1
+Item = 1515494273 True Freq = 1
+Item = 1528092075 True Freq = 1
+Item = 1547378677 True Freq = 1
+Item = 1566707415 True Freq = 1
+Item = 1571374245 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1602002809 True Freq = 1
+Item = 1614784844 True Freq = 1
+Item = 1650464786 True Freq = 1
+Item = 1650573011 True Freq = 1
+Item = 1662746022 True Freq = 1
+Item = 1665445637 True Freq = 1
+Item = 1677289142 True Freq = 1
+Item = 1686865054 True Freq = 1
+Item = 1687080980 True Freq = 1
+Item = 1688110997 True Freq = 1
+Item = 1688758098 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1713532391 True Freq = 1
+Item = 1714877947 True Freq = 1
+Item = 1746960173 True Freq = 1
+Item = 1748377461 True Freq = 1
+Item = 1751951195 True Freq = 1
+Item = 1752406350 True Freq = 1
+Item = 1753737802 True Freq = 1
+Item = 1762717239 True Freq = 1
+Item = 1763783127 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1775100038 True Freq = 1
+Item = 1778210453 True Freq = 1
+Item = 1783353240 True Freq = 1
+Item = 1805806932 True Freq = 1
+Item = 1837070979 True Freq = 1
+Item = 1843214205 True Freq = 1
+Item = 1859985156 True Freq = 1
+Item = 1892137014 True Freq = 1
+Item = 1908057228 True Freq = 1
+Item = 1920171214 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1937002759 True Freq = 1
+Item = 1971884379 True Freq = 1
+Item = 1979616778 True Freq = 1
+Item = 1985973514 True Freq = 1
+Item = 1986789242 True Freq = 1
+Item = 1989027143 True Freq = 1
+Item = 1999350962 True Freq = 1
+Item = 2009534781 True Freq = 1
+Item = 2026705411 True Freq = 1
+Item = 2028331063 True Freq = 1
+Item = 2057959776 True Freq = 1
+Item = 2062188390 True Freq = 1
+Item = 2066788869 True Freq = 1
+Item = 2086645400 True Freq = 1
+Item = 2110951208 True Freq = 1
+Item = 2115602671 True Freq = 1
+Item = 2117961835 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 15
+port = 8888
+26/06/19 10:28:59 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 21
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 632507218 True Freq = 39947
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 359
+Item = 501737 True Freq = 1
+Item = 9321622 True Freq = 1
+Item = 9710792 True Freq = 1
+Item = 17648072 True Freq = 1
+Item = 28937850 True Freq = 1
+Item = 31445230 True Freq = 1
+Item = 38504494 True Freq = 1
+Item = 39717065 True Freq = 1
+Item = 40492282 True Freq = 1
+Item = 41330391 True Freq = 1
+Item = 51524967 True Freq = 1
+Item = 53009933 True Freq = 1
+Item = 57883286 True Freq = 1
+Item = 64328324 True Freq = 1
+Item = 73927951 True Freq = 1
+Item = 91602092 True Freq = 1
+Item = 93383685 True Freq = 1
+Item = 101672384 True Freq = 1
+Item = 109094145 True Freq = 1
+Item = 112757447 True Freq = 1
+Item = 117640355 True Freq = 1
+Item = 117774549 True Freq = 1
+Item = 119507349 True Freq = 1
+Item = 119515217 True Freq = 1
+Item = 128205640 True Freq = 1
+Item = 138363506 True Freq = 1
+Item = 146064625 True Freq = 1
+Item = 150471132 True Freq = 1
+Item = 155104868 True Freq = 1
+Item = 159877630 True Freq = 1
+Item = 165065105 True Freq = 1
+Item = 167382735 True Freq = 1
+Item = 170078260 True Freq = 1
+Item = 172283115 True Freq = 1
+Item = 176052311 True Freq = 1
+Item = 177257878 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 198193761 True Freq = 1
+Item = 204082576 True Freq = 1
+Item = 207723200 True Freq = 1
+Item = 216558708 True Freq = 1
+Item = 231405754 True Freq = 1
+Item = 235625471 True Freq = 1
+Item = 248806816 True Freq = 1
+Item = 255753180 True Freq = 1
+Item = 278091698 True Freq = 1
+Item = 280666305 True Freq = 1
+Item = 302675378 True Freq = 1
+Item = 309409217 True Freq = 1
+Item = 315768742 True Freq = 1
+Item = 317570100 True Freq = 1
+Item = 318507068 True Freq = 1
+Item = 319467769 True Freq = 1
+Item = 322783370 True Freq = 1
+Item = 332256740 True Freq = 1
+Item = 339308454 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 339560621 True Freq = 1
+Item = 340033072 True Freq = 1
+Item = 356065186 True Freq = 1
+Item = 362816611 True Freq = 1
+Item = 388563537 True Freq = 1
+Item = 389987226 True Freq = 1
+Item = 394825044 True Freq = 1
+Item = 399109705 True Freq = 1
+Item = 406463149 True Freq = 1
+Item = 424205225 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 434822838 True Freq = 1
+Item = 437820503 True Freq = 1
+Item = 442850278 True Freq = 1
+Item = 446704929 True Freq = 1
+Item = 449955399 True Freq = 1
+Item = 455651654 True Freq = 1
+Item = 467840143 True Freq = 1
+Item = 470334590 True Freq = 1
+Item = 478165476 True Freq = 1
+Item = 483363426 True Freq = 1
+Item = 493748937 True Freq = 1
+Item = 504946156 True Freq = 1
+Item = 510295434 True Freq = 1
+Item = 516752987 True Freq = 1
+Item = 517016481 True Freq = 1
+Item = 519964311 True Freq = 1
+Item = 522828392 True Freq = 1
+Item = 533050779 True Freq = 1
+Item = 538653576 True Freq = 1
+Item = 542871716 True Freq = 1
+Item = 556545126 True Freq = 1
+Item = 560591146 True Freq = 1
+Item = 564970180 True Freq = 1
+Item = 567919253 True Freq = 1
+Item = 578201737 True Freq = 1
+Item = 582539687 True Freq = 1
+Item = 600888809 True Freq = 1
+Item = 605737694 True Freq = 1
+Item = 608506424 True Freq = 1
+Item = 608740848 True Freq = 1
+Item = 611159625 True Freq = 1
+Item = 625150714 True Freq = 1
+Item = 625350194 True Freq = 1
+Item = 629392349 True Freq = 1
+Item = 637930670 True Freq = 1
+Item = 637988872 True Freq = 1
+Item = 639258813 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 642680567 True Freq = 1
+Item = 648441732 True Freq = 1
+Item = 656719941 True Freq = 1
+Item = 665914806 True Freq = 1
+Item = 666853355 True Freq = 1
+Item = 670350487 True Freq = 1
+Item = 672816562 True Freq = 1
+Item = 693787302 True Freq = 1
+Item = 710700066 True Freq = 1
+Item = 712703004 True Freq = 1
+Item = 713559518 True Freq = 1
+Item = 715214803 True Freq = 1
+Item = 715930989 True Freq = 1
+Item = 721607527 True Freq = 1
+Item = 725940013 True Freq = 1
+Item = 743083772 True Freq = 1
+Item = 745851845 True Freq = 1
+Item = 748379833 True Freq = 1
+Item = 756665076 True Freq = 1
+Item = 756880527 True Freq = 1
+Item = 757379583 True Freq = 1
+Item = 760825815 True Freq = 1
+Item = 761647796 True Freq = 1
+Item = 768251864 True Freq = 1
+Item = 769037887 True Freq = 1
+Item = 774705913 True Freq = 1
+Item = 781680032 True Freq = 1
+Item = 793622147 True Freq = 1
+Item = 802021270 True Freq = 1
+Item = 817056419 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 820769283 True Freq = 1
+Item = 826997364 True Freq = 1
+Item = 829967460 True Freq = 1
+Item = 830589721 True Freq = 1
+Item = 831628806 True Freq = 1
+Item = 865338604 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 871580152 True Freq = 1
+Item = 872261745 True Freq = 1
+Item = 880555098 True Freq = 1
+Item = 887900668 True Freq = 1
+Item = 891728703 True Freq = 1
+Item = 914045382 True Freq = 1
+Item = 920478768 True Freq = 1
+Item = 921227131 True Freq = 1
+Item = 923358818 True Freq = 1
+Item = 924004826 True Freq = 1
+Item = 926566840 True Freq = 1
+Item = 928186917 True Freq = 1
+Item = 931114328 True Freq = 1
+Item = 933141932 True Freq = 1
+Item = 934533478 True Freq = 1
+Item = 939347513 True Freq = 1
+Item = 959888177 True Freq = 1
+Item = 963053414 True Freq = 1
+Item = 966188454 True Freq = 1
+Item = 971789641 True Freq = 1
+Item = 972936266 True Freq = 1
+Item = 983251451 True Freq = 1
+Item = 985717818 True Freq = 1
+Item = 998749159 True Freq = 1
+Item = 1004891805 True Freq = 1
+Item = 1013835256 True Freq = 1
+Item = 1020268365 True Freq = 1
+Item = 1027953558 True Freq = 1
+Item = 1034192419 True Freq = 1
+Item = 1038830345 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1046213660 True Freq = 1
+Item = 1054805433 True Freq = 1
+Item = 1062773255 True Freq = 1
+Item = 1066029334 True Freq = 1
+Item = 1073002666 True Freq = 1
+Item = 1079111600 True Freq = 1
+Item = 1081864001 True Freq = 1
+Item = 1091713142 True Freq = 1
+Item = 1093622186 True Freq = 1
+Item = 1096520152 True Freq = 1
+Item = 1116292814 True Freq = 1
+Item = 1118187351 True Freq = 1
+Item = 1121418939 True Freq = 1
+Item = 1123563013 True Freq = 1
+Item = 1137268646 True Freq = 1
+Item = 1144373707 True Freq = 1
+Item = 1149290678 True Freq = 1
+Item = 1149304040 True Freq = 1
+Item = 1152887651 True Freq = 1
+Item = 1155425325 True Freq = 1
+Item = 1159138257 True Freq = 1
+Item = 1175264209 True Freq = 1
+Item = 1175857788 True Freq = 1
+Item = 1204326541 True Freq = 1
+Item = 1209659831 True Freq = 1
+Item = 1218454878 True Freq = 1
+Item = 1219218319 True Freq = 1
+Item = 1227056203 True Freq = 1
+Item = 1243015932 True Freq = 1
+Item = 1247895731 True Freq = 1
+Item = 1253562374 True Freq = 1
+Item = 1272556193 True Freq = 1
+Item = 1278897964 True Freq = 1
+Item = 1282975095 True Freq = 1
+Item = 1293158865 True Freq = 1
+Item = 1304246265 True Freq = 1
+Item = 1306399525 True Freq = 1
+Item = 1310055764 True Freq = 1
+Item = 1334412219 True Freq = 1
+Item = 1341951057 True Freq = 1
+Item = 1343146785 True Freq = 1
+Item = 1346702018 True Freq = 1
+Item = 1353956026 True Freq = 1
+Item = 1356972929 True Freq = 1
+Item = 1373210860 True Freq = 1
+Item = 1375838536 True Freq = 1
+Item = 1377884974 True Freq = 1
+Item = 1380346377 True Freq = 1
+Item = 1380828637 True Freq = 1
+Item = 1408696911 True Freq = 1
+Item = 1410252338 True Freq = 1
+Item = 1410451661 True Freq = 1
+Item = 1412883426 True Freq = 1
+Item = 1414076474 True Freq = 1
+Item = 1415803654 True Freq = 1
+Item = 1431586949 True Freq = 1
+Item = 1437504431 True Freq = 1
+Item = 1438321985 True Freq = 1
+Item = 1438796878 True Freq = 1
+Item = 1445444645 True Freq = 1
+Item = 1446923009 True Freq = 1
+Item = 1459638033 True Freq = 1
+Item = 1462802576 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1474833729 True Freq = 1
+Item = 1482837486 True Freq = 1
+Item = 1483426744 True Freq = 1
+Item = 1483900929 True Freq = 1
+Item = 1486227351 True Freq = 1
+Item = 1493225194 True Freq = 1
+Item = 1500130829 True Freq = 1
+Item = 1514373435 True Freq = 1
+Item = 1515482751 True Freq = 1
+Item = 1520285680 True Freq = 1
+Item = 1530715703 True Freq = 1
+Item = 1556342433 True Freq = 1
+Item = 1561154544 True Freq = 1
+Item = 1566200760 True Freq = 1
+Item = 1570240713 True Freq = 1
+Item = 1571374245 True Freq = 1
+Item = 1573366165 True Freq = 1
+Item = 1580832513 True Freq = 1
+Item = 1584832712 True Freq = 1
+Item = 1587844811 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1600929997 True Freq = 1
+Item = 1618359947 True Freq = 1
+Item = 1624960169 True Freq = 1
+Item = 1630104608 True Freq = 1
+Item = 1630142142 True Freq = 1
+Item = 1637361595 True Freq = 1
+Item = 1639018371 True Freq = 1
+Item = 1640006970 True Freq = 1
+Item = 1642470105 True Freq = 1
+Item = 1650849014 True Freq = 1
+Item = 1662130091 True Freq = 1
+Item = 1664639935 True Freq = 1
+Item = 1675446000 True Freq = 1
+Item = 1675665403 True Freq = 1
+Item = 1676612649 True Freq = 1
+Item = 1677289142 True Freq = 1
+Item = 1685138036 True Freq = 1
+Item = 1686442324 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1704397295 True Freq = 1
+Item = 1708838270 True Freq = 1
+Item = 1726815564 True Freq = 1
+Item = 1727345366 True Freq = 1
+Item = 1728547455 True Freq = 1
+Item = 1734427673 True Freq = 1
+Item = 1738667157 True Freq = 1
+Item = 1740582586 True Freq = 1
+Item = 1744688947 True Freq = 1
+Item = 1745014381 True Freq = 1
+Item = 1754888257 True Freq = 1
+Item = 1769828131 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1776617210 True Freq = 1
+Item = 1778210453 True Freq = 1
+Item = 1778540579 True Freq = 1
+Item = 1783727225 True Freq = 1
+Item = 1794865602 True Freq = 1
+Item = 1799291745 True Freq = 1
+Item = 1801356618 True Freq = 1
+Item = 1806112020 True Freq = 1
+Item = 1809432219 True Freq = 1
+Item = 1837070979 True Freq = 1
+Item = 1853186312 True Freq = 1
+Item = 1858401818 True Freq = 1
+Item = 1865971017 True Freq = 1
+Item = 1866090411 True Freq = 1
+Item = 1866388738 True Freq = 1
+Item = 1868927375 True Freq = 1
+Item = 1880418154 True Freq = 1
+Item = 1892980570 True Freq = 1
+Item = 1899111968 True Freq = 1
+Item = 1906388041 True Freq = 1
+Item = 1908860186 True Freq = 1
+Item = 1911029144 True Freq = 1
+Item = 1911882665 True Freq = 1
+Item = 1928213130 True Freq = 1
+Item = 1932020538 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1944490843 True Freq = 1
+Item = 1950339794 True Freq = 1
+Item = 1965551340 True Freq = 1
+Item = 1966775851 True Freq = 1
+Item = 1975679573 True Freq = 1
+Item = 1980952198 True Freq = 1
+Item = 1982421472 True Freq = 1
+Item = 1986508903 True Freq = 1
+Item = 1988785124 True Freq = 1
+Item = 1989272667 True Freq = 1
+Item = 1991177750 True Freq = 1
+Item = 1992490079 True Freq = 1
+Item = 2001762047 True Freq = 1
+Item = 2008675778 True Freq = 1
+Item = 2010273030 True Freq = 1
+Item = 2015873631 True Freq = 1
+Item = 2018134659 True Freq = 1
+Item = 2021401646 True Freq = 1
+Item = 2021832917 True Freq = 1
+Item = 2032296177 True Freq = 1
+Item = 2033758619 True Freq = 1
+Item = 2041910723 True Freq = 1
+Item = 2044875239 True Freq = 1
+Item = 2052582634 True Freq = 1
+Item = 2054232397 True Freq = 1
+Item = 2057997036 True Freq = 1
+Item = 2060965360 True Freq = 1
+Item = 2073713371 True Freq = 1
+Item = 2084967399 True Freq = 1
+Item = 2085382456 True Freq = 1
+Item = 2085608875 True Freq = 1
+Item = 2088507657 True Freq = 1
+Item = 2095978589 True Freq = 1
+Item = 2102120948 True Freq = 1
+Item = 2102331092 True Freq = 1
+Item = 2110774550 True Freq = 1
+Item = 2115615431 True Freq = 1
+Item = 2117447483 True Freq = 1
+Item = 2121984805 True Freq = 1
+Item = 2129061450 True Freq = 1
+Item = 2131002595 True Freq = 1
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 15
+port = 8888
+26/06/19 10:29:33 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 20
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 150
+Item = 5232273 True Freq = 1
+Item = 13848655 True Freq = 1
+Item = 19769200 True Freq = 1
+Item = 37303199 True Freq = 1
+Item = 85052224 True Freq = 1
+Item = 103654582 True Freq = 1
+Item = 117640527 True Freq = 1
+Item = 119507349 True Freq = 1
+Item = 135371395 True Freq = 1
+Item = 138363506 True Freq = 1
+Item = 161768108 True Freq = 1
+Item = 163134496 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 204020939 True Freq = 1
+Item = 205602501 True Freq = 1
+Item = 209526825 True Freq = 1
+Item = 215360104 True Freq = 1
+Item = 291035432 True Freq = 1
+Item = 305991686 True Freq = 1
+Item = 319169155 True Freq = 1
+Item = 327964547 True Freq = 1
+Item = 329468823 True Freq = 1
+Item = 329888325 True Freq = 1
+Item = 339323283 True Freq = 80161
+Item = 359646286 True Freq = 1
+Item = 369557425 True Freq = 1
+Item = 398334878 True Freq = 1
+Item = 402675391 True Freq = 1
+Item = 413212388 True Freq = 1
+Item = 427412230 True Freq = 1
+Item = 433237295 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 434822838 True Freq = 1
+Item = 447594949 True Freq = 1
+Item = 447960288 True Freq = 1
+Item = 468128028 True Freq = 1
+Item = 473879770 True Freq = 1
+Item = 486153389 True Freq = 1
+Item = 497499286 True Freq = 1
+Item = 507691516 True Freq = 1
+Item = 514095066 True Freq = 1
+Item = 515714182 True Freq = 1
+Item = 534887640 True Freq = 1
+Item = 545160917 True Freq = 1
+Item = 583546073 True Freq = 1
+Item = 585306489 True Freq = 1
+Item = 588112888 True Freq = 1
+Item = 592635858 True Freq = 1
+Item = 612312226 True Freq = 1
+Item = 616824659 True Freq = 1
+Item = 634934017 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 693638229 True Freq = 1
+Item = 695007395 True Freq = 1
+Item = 695691452 True Freq = 1
+Item = 697041275 True Freq = 1
+Item = 725940013 True Freq = 1
+Item = 729817455 True Freq = 1
+Item = 743481468 True Freq = 1
+Item = 756620209 True Freq = 1
+Item = 764782433 True Freq = 1
+Item = 774705913 True Freq = 1
+Item = 778963801 True Freq = 1
+Item = 790991821 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 821024534 True Freq = 1
+Item = 853292700 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 884866095 True Freq = 1
+Item = 894519786 True Freq = 1
+Item = 900638853 True Freq = 1
+Item = 924004826 True Freq = 1
+Item = 933412069 True Freq = 1
+Item = 941996852 True Freq = 1
+Item = 982655547 True Freq = 1
+Item = 1013823381 True Freq = 1
+Item = 1018348306 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1043528623 True Freq = 1
+Item = 1043757531 True Freq = 1
+Item = 1093622186 True Freq = 1
+Item = 1111717895 True Freq = 1
+Item = 1121276383 True Freq = 1
+Item = 1122589318 True Freq = 1
+Item = 1131769826 True Freq = 1
+Item = 1163257785 True Freq = 1
+Item = 1193078457 True Freq = 1
+Item = 1199544961 True Freq = 1
+Item = 1200557751 True Freq = 1
+Item = 1249330424 True Freq = 1
+Item = 1267871765 True Freq = 1
+Item = 1276916598 True Freq = 1
+Item = 1291080574 True Freq = 1
+Item = 1304486204 True Freq = 1
+Item = 1350671953 True Freq = 1
+Item = 1362571039 True Freq = 1
+Item = 1390063689 True Freq = 1
+Item = 1415031428 True Freq = 1
+Item = 1455974351 True Freq = 1
+Item = 1467635142 True Freq = 1
+Item = 1469049421 True Freq = 1
+Item = 1471787179 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1522378633 True Freq = 1
+Item = 1538921599 True Freq = 1
+Item = 1562588252 True Freq = 1
+Item = 1566581361 True Freq = 1
+Item = 1583092581 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1590824526 True Freq = 1
+Item = 1604403128 True Freq = 1
+Item = 1607401889 True Freq = 1
+Item = 1609352033 True Freq = 1
+Item = 1613222179 True Freq = 1
+Item = 1634048826 True Freq = 1
+Item = 1635602717 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1699589787 True Freq = 1
+Item = 1716789715 True Freq = 1
+Item = 1724365689 True Freq = 1
+Item = 1729427354 True Freq = 1
+Item = 1763783127 True Freq = 1
+Item = 1770729574 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1792868327 True Freq = 1
+Item = 1804963260 True Freq = 1
+Item = 1824673946 True Freq = 1
+Item = 1825821614 True Freq = 1
+Item = 1855993913 True Freq = 1
+Item = 1861120277 True Freq = 1
+Item = 1864704125 True Freq = 1
+Item = 1876940765 True Freq = 1
+Item = 1884792746 True Freq = 1
+Item = 1898534195 True Freq = 1
+Item = 1900624339 True Freq = 1
+Item = 1903369445 True Freq = 1
+Item = 1920777350 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 1945532343 True Freq = 1
+Item = 1957753123 True Freq = 1
+Item = 1986794875 True Freq = 1
+Item = 2013071068 True Freq = 1
+Item = 2020627956 True Freq = 1
+Item = 2033758619 True Freq = 1
+Item = 2038581604 True Freq = 1
+Item = 2043051340 True Freq = 1
+Item = 2055269799 True Freq = 1
+Item = 2078352316 True Freq = 1
+Item = 2119541173 True Freq = 1
+Item = 2120356480 True Freq = 1
+________________________________________________________________________________________
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 30
+port = 8888
+26/06/19 10:31:32 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 18
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 632507218 True Freq = 39947
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 21
+Item = 75462752 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 362144725 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 896734537 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1500188815 True Freq = 1
+Item = 1525990739 True Freq = 1
+Item = 1590293530 True Freq = 79482
+Item = 1619662836 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1782824529 True Freq = 1
+Item = 1847307900 True Freq = 1
+Item = 1913851584 True Freq = 1
+Item = 1936875793 True Freq = 80062
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 30
+port = 8888
+26/06/19 10:31:48 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 18
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 24
+Item = 128650607 True Freq = 1
+Item = 152329396 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 584674289 True Freq = 1
+Item = 638923282 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 647673322 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 965612962 True Freq = 1
+Item = 1016128503 True Freq = 1
+Item = 1039227623 True Freq = 1
+Item = 1314058238 True Freq = 1
+Item = 1349666023 True Freq = 1
+Item = 1353762791 True Freq = 1
+Item = 1358356674 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1900269814 True Freq = 1
+Item = 1936875793 True Freq = 80062
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 30
+port = 8888
+26/06/19 10:32:01 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 17
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 632507218 True Freq = 39947
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 29
+Item = 47684081 True Freq = 1
+Item = 99964374 True Freq = 1
+Item = 155603927 True Freq = 1
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 346760030 True Freq = 1
+Item = 434415286 True Freq = 80012
+Item = 545046932 True Freq = 1
+Item = 634028920 True Freq = 1
+Item = 641486445 True Freq = 79600
+Item = 644411162 True Freq = 1
+Item = 819911327 True Freq = 80096
+Item = 826997364 True Freq = 1
+Item = 870070186 True Freq = 79779
+Item = 1039227623 True Freq = 1
+Item = 1198086965 True Freq = 1
+Item = 1321592020 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1614836854 True Freq = 1
+Item = 1644827929 True Freq = 1
+Item = 1659378300 True Freq = 1
+Item = 1690049656 True Freq = 80737
+Item = 1752906264 True Freq = 1
+Item = 1770896889 True Freq = 1
+Item = 1850410014 True Freq = 1
+Item = 1936875793 True Freq = 80062
+Item = 2046619181 True Freq = 1
+Item = 2100066536 True Freq = 1
+_______________________________________________________________________________________
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 60
+port = 8888
+26/06/19 10:37:49 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 22
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 12
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1039227623 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1936875793 True Freq = 80062
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 60
+port = 8888
+26/06/19 10:38:10 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 20
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 632507218 True Freq = 39947
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 12
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1039227623 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1936875793 True Freq = 80062
+
+INPUT PARAMETERS
+n = 1000000
+phi = 0.07
+epsilon = 0.04
+delta = 0.05
+d = 5
+w = 60
+port = 8888
+26/06/19 10:38:25 ERROR ReceiverTracker: Deregistered receiver for stream 0: Stopped by driver
+
+TRUE FREQUENT ITEMS
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+STICKY SAMPLING
+Size of dictionary = 18
+Item = 14673339 True Freq = 39880
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 632507218 True Freq = 39947
+Item = 637121204 True Freq = 40134
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 978604355 True Freq = 40019
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1936875793 True Freq = 80062
+
+COUNT-MIN SKETCH
+Size of F_CM = 12
+Item = 195773912 True Freq = 80280
+Item = 339323283 True Freq = 80161
+Item = 434415286 True Freq = 80012
+Item = 641486445 True Freq = 79600
+Item = 819911327 True Freq = 80096
+Item = 870070186 True Freq = 79779
+Item = 1039227623 True Freq = 1
+Item = 1472610405 True Freq = 79928
+Item = 1590293530 True Freq = 79482
+Item = 1690049656 True Freq = 80737
+Item = 1770896889 True Freq = 1
+Item = 1936875793 True Freq = 80062
+
+
